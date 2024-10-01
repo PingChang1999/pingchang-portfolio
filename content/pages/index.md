@@ -46,7 +46,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Ping_Chang.JPG
+      url: /images/Me.JPG
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
