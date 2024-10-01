@@ -49,7 +49,7 @@ sections:
       url: /images/Me.JPG
       altText: Hero section image
   - type: CardsSection
-    title: Personal Projects
+    title: Baseball Projects
     subtitle: Section subtitle here
     items:
       - type: Card
