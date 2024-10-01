@@ -6,8 +6,11 @@ sections:
     title: Ping Chang
     subtitle: 'Data Analyst, Data Engineer, Data Scientist'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
+      I'm a data professional specializing in building robust, scalable data
+      solutions and deriving actionable insights from complex datasets. My
+      expertise spans across developing data pipelines, machine learning models,
+      and predictive analysis in industries ranging from sports analytics to
+      transportation optimization. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
