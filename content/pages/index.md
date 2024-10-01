@@ -27,7 +27,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Ping_Chang.JPG
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
