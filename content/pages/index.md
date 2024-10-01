@@ -17,10 +17,8 @@ sections:
 
 
       M.S., Computer Science | New York University Tandon School of Engineering
-      September 2021 - December 2023
-
-
-      GPA: 3.7/4 ; Tandon Onwards Scholarship; Dean's List
+      September 2021 - December 2023  GPA: 3.7/4 ; Tandon Onwards Scholarship;
+      Dean's List
 
 
       B.S., Computer Science | New York University Tandon School of Engineering
