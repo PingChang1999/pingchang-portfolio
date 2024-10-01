@@ -10,8 +10,33 @@ sections:
       solutions and deriving actionable insights from complex datasets. My
       expertise spans across developing data pipelines, machine learning models,
       and predictive analysis in industries ranging from sports analytics to
-      transportation optimization. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      transportation optimization.
+
+
+      Education
+
+
+      M.S., Computer Science | New York University Tandon School of Engineering
+
+
+      September 2021 - December 2023
+
+
+      GPA: 3.7/4 ; Tandon Onwards Scholarship; Dean's List
+
+
+
+
+      B.S., Computer Science | New York University Tandon School of Engineering
+
+
+      September 2018 - May 2021
+
+
+      GPA 3.5/4; Dean's List
+
+
+      [Learn more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
         label: Start Building
