@@ -56,7 +56,7 @@ sections:
         title: Predicting MLB Team Wins
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/player_WAR.webp
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
