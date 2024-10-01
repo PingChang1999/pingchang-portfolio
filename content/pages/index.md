@@ -71,7 +71,7 @@ sections:
         title: Analyzing Pitcher Performance
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/release_point.jpg
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
